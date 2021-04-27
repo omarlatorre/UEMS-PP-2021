@@ -1,4 +1,4 @@
-# Universidade Estadual de Mato Grosso do Sul - UEMS
+# Universidade Estadual de Mato Grosso do Sul
 [<img src="images/uems-logo.jpg" width="15%"/>](images/uems-logo.jpg)
 ## Curso: Sistemas de Informação
 ## Paradigmas de programação 2021
