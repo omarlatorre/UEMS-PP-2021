@@ -1,0 +1,9 @@
+--pilotos(A, londres) = pilotos(londres, paris)
+--pilotos(londres, A) = pilotos(londres, paris)
+--pilotos(A, londres) = pilotos(paris, londres)
+--ponto(X, Y, Z) = ponto(X1, Y1, Z1)
+--letra(C) = palavra(letra)
+--letra(C) = letra(palavra)
+--nome(alfa) = alfa
+--f(X, X) = f(a,b)
+--f(X, a(b,c)) = f(Z, a(Z,c))
